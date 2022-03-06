@@ -1,7 +1,7 @@
 # eCTF'22-Write-Ups
 -----------------------------------------------------------------------
 
-    ![About](Misc/IamGroot/img/About.png)
+    ![About](Misc/I am Groot/img/About.png)
 
 - Im a member in `Get 'em all` team.
 
